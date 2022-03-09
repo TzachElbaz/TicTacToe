@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Tic-Tac-Toe game</title>
+    <!--
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">4
+    -->
+    <link rel="stylesheet" href="app.css" type="text/css" />
+    <script src="mark.js"></script>
+    <script src="status.js"></script>
+    <script src="board.js"></script>
+    <script src="player.js"></script>
+    <script src="user.js"></script>
+    <script src="rival.js"></script>
+    <script src="app.js"></script>
+</head>
+<body onload="showUserName()">
+    <h2 id="userName"></h2>
+    <div><h4>press <input type="button" value="HERE" onclick="startOver()"/> to start over</h4></div>
+    <table>
+        <tr>
+            <td id="td1" onclick="play('td1')"><img src="placeholder.png" /></td>
+            <td id="td2" onclick="play('td2')"><img src="placeholder.png" /></td>
+            <td id="td3" onclick="play('td3')"><img src="placeholder.png" /></td>
+        </tr>
+        <tr>
+            <td id="td4" onclick="play('td4')"><img src="placeholder.png" /></td>
+            <td id="td5" onclick="play('td5')"><img src="placeholder.png" /></td>
+            <td id="td6" onclick="play('td6')"><img src="placeholder.png" /></td>
+        </tr>
+        <tr>
+            <td id="td7" onclick="play('td7')"><img src="placeholder.png" /></td>
+            <td id="td8" onclick="play('td8')"><img src="placeholder.png" /></td>
+            <td id="td9" onclick="play('td9')"><img src="placeholder.png" /></td>
+        </tr>
+    </table>
+</body>
+</html>

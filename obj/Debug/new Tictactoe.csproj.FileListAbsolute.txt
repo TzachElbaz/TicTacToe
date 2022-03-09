@@ -1,0 +1,21 @@
+C:\Users\tsahe\OneDrive\שולחן העבודה\new Tictactoe\new Tictactoe\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\tsahe\OneDrive\שולחן העבודה\new Tictactoe\new Tictactoe\bin\TypeScriptHTMLApp1.dll
+C:\Users\tsahe\OneDrive\שולחן העבודה\new Tictactoe\new Tictactoe\bin\TypeScriptHTMLApp1.pdb
+C:\Users\tsahe\OneDrive\שולחן העבודה\new Tictactoe\new Tictactoe\obj\Debug\new Tictactoe.csproj.AssemblyReference.cache
+C:\Users\tsahe\OneDrive\שולחן העבודה\new Tictactoe\new Tictactoe\obj\Debug\new Tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\tsahe\OneDrive\שולחן העבודה\new Tictactoe\new Tictactoe\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\tsahe\OneDrive\שולחן העבודה\new Tictactoe\new Tictactoe\obj\Debug\TypeScriptHTMLApp1.pdb
+C:\Users\tsahe\OneDrive\מסמכים\JB\oop Type Script\project2\new Tictactoe\new Tictactoe\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\tsahe\OneDrive\מסמכים\JB\oop Type Script\project2\new Tictactoe\new Tictactoe\bin\TypeScriptHTMLApp1.dll
+C:\Users\tsahe\OneDrive\מסמכים\JB\oop Type Script\project2\new Tictactoe\new Tictactoe\bin\TypeScriptHTMLApp1.pdb
+C:\Users\tsahe\OneDrive\מסמכים\JB\oop Type Script\project2\new Tictactoe\new Tictactoe\obj\Debug\new Tictactoe.csproj.AssemblyReference.cache
+C:\Users\tsahe\OneDrive\מסמכים\JB\oop Type Script\project2\new Tictactoe\new Tictactoe\obj\Debug\new Tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\tsahe\OneDrive\מסמכים\JB\oop Type Script\project2\new Tictactoe\new Tictactoe\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\tsahe\OneDrive\מסמכים\JB\oop Type Script\project2\new Tictactoe\new Tictactoe\obj\Debug\TypeScriptHTMLApp1.pdb
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\oop Type Script\project2\new Tictactoe\new Tictactoe\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\oop Type Script\project2\new Tictactoe\new Tictactoe\bin\TypeScriptHTMLApp1.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\oop Type Script\project2\new Tictactoe\new Tictactoe\bin\TypeScriptHTMLApp1.pdb
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\oop Type Script\project2\new Tictactoe\new Tictactoe\obj\Debug\new Tictactoe.csproj.AssemblyReference.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\oop Type Script\project2\new Tictactoe\new Tictactoe\obj\Debug\new Tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\oop Type Script\project2\new Tictactoe\new Tictactoe\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\oop Type Script\project2\new Tictactoe\new Tictactoe\obj\Debug\TypeScriptHTMLApp1.pdb
